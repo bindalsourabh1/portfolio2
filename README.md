@@ -1,6 +1,10 @@
 #This is my personal portfolio website.
 It is made using HTML, CSS, JS and React.
 
+These are some screenshots of the project.
+![image](https://github.com/bindalsourabh1/portfolio2/assets/95605311/fdd31e74-65a2-4e92-83dc-cd1926edd068)
+
+
 # Getting Started with Create React App
 
 
