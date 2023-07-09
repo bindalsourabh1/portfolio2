@@ -2,6 +2,11 @@
 It is made using HTML, CSS, JS and React.
 
 These are some screenshots of the project.
+
+![Screenshot 2023-07-09 141148](https://github.com/bindalsourabh1/portfolio2/assets/95605311/d538845d-9641-48e4-9810-72bdf23e076e)
+
+![Screenshot 2023-07-09 141210](https://github.com/bindalsourabh1/portfolio2/assets/95605311/2078deac-c7f6-4b87-ae7f-ac6380a4316a)
+
 ![image](https://github.com/bindalsourabh1/portfolio2/assets/95605311/fdd31e74-65a2-4e92-83dc-cd1926edd068)
 
 
